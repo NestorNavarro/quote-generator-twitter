@@ -16,3 +16,6 @@ You can to learn a lots with this course about javascript .  I encourage you to 
 * [Quotes](https://forismatic.com/en/api/) -Quotes
 * [Heroku](https://dashboard.heroku.com/apps) -Proxy server(solving a problem with CORS)
 * [cors-anywhere](https://github.com/Rob--W/cors-anywhere/) -Using this project
+
+## Deployment
+Project [view](https://nestornavarro.github.io/quote-generator-twitter/)
